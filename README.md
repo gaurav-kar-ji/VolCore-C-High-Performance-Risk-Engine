@@ -111,5 +111,5 @@ This demonstrates how option sensitivity behaves across the surface — a **core
 
 ### Delta Surface Plot
 
-![Delta Surface Visualization](assets/delta_surface.png)
+![Delta Surface Visualization](https://github.com/gaurav-kar-ji/VolCore-C-High-Performance-Risk-Engine/blob/main/plot.png)
 
